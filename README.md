@@ -116,32 +116,33 @@ If you need to adjust thresholds or rerun the analysis:
    - 8-region ROIs  
 3. It will then reprocess intensity quantification using updated threshold settings.
 
-//---
+<!--
+---
 
-//## Example Workflow
+## Example Workflow
 
-//### 1. Example Input Image  
-//Raw mitochondrial or Mfb1 channel image.  
-//![Example Input Image](images/example_mito_input.png)
+### 1. Example Input Image  
+Raw mitochondrial or Mfb1 channel image.  
+![Example Input Image](images/example_mito_input.png)
 
-//---
+---
 
-//### 2. Example Cellpose Mask  
-//Cellpose-generated cell segmentation mask (`x-Mask`).  
-//![Example Cellpose Mask](images/example_mito_mask.png)
+### 2. Example Cellpose Mask  
+Cellpose-generated cell segmentation mask (`x-Mask`).  
+![Example Cellpose Mask](images/example_mito_mask.png)
 
-//---
+---
 
-//### 3. Example ROI Definition  
-//Mother–bud axis (white line), 8 regions (colored ROIs), and cell boundaries.  
-//![Example ROI Definition](images/example_mito_roi.png)
+### 3. Example ROI Definition  
+Mother–bud axis (white line), 8 regions (colored ROIs), and cell boundaries.  
+![Example ROI Definition](images/example_mito_roi.png)
 
-//---
+---
 
-//### 4. Example Output Summary  
-//Representative quantification results showing regional fluorescence intensity.  
-//![Example Output Summary](images/example_mito_output.png)
-
+### 4. Example Output Summary  
+Representative quantification results showing regional fluorescence intensity.  
+![Example Output Summary](images/example_mito_output.png)
+-->
 ---
 
 ## Notes
