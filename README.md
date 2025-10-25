@@ -151,7 +151,7 @@ Representative quantification results showing regional fluorescence intensity.
 
 ## Citation
 If you use this macro in your research, please cite:  
-> [Your Name], *AOC-Mito_Mfb1_distribution-v1.ijm: FIJI Macro for Quantifying Mitochondrial and Mfb1 Distribution in Budding Yeast*, [Year].
+> [Emily J Yang], *AOC-Mito_Mfb1_distribution-v1.ijm: FIJI Macro for Quantifying Mitochondrial and Mfb1 Distribution in Budding Yeast*, [Year].
 
 ---
 
