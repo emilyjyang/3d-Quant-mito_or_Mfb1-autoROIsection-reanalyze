@@ -1,7 +1,4 @@
-# 3d-Quant-mito_or_Mfb1-autoROIsection-reanalyze
-Scripts used in Actin Cable Organizing Center paper to quantify the distribution of mitochondria or Mfb1 in 5 regions of the budding yeast cells.
-
-# AOC-Mito_Mfb1_distribution-v1.ijm
+# 3d-Quant-mito-Mfb1-define_ch-autoROIsection-Threshold_whole_image-reanalyze-v1.ijm
 
 ## Overview
 This FIJI macro quantifies the **subcellular distribution of mitochondria or Mfb1** (a mitochondrial-associated protein asymmetrically localized to the mother distal tip in *Saccharomyces cerevisiae*).  
