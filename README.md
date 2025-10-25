@@ -1,5 +1,4 @@
-# 3d-Quant-mito-Mfb1-define_ch-autoROIsection-Threshold_whole_image-reanalyze-v1.ijm
-
+# AOC-Mito_Mfb1_distribution.ijm
 ## Overview
 This FIJI macro quantifies the **subcellular distribution of mitochondria or Mfb1** (a mitochondrial-associated protein asymmetrically localized to the mother distal tip in *Saccharomyces cerevisiae*).  
 
@@ -38,7 +37,7 @@ Before running this macro, prepare your images and masks as follows:
 
 ## Step 2 – Running the Macro
 
-1. Launch FIJI and open **`AOC-Mito_Mfb1_distribution-v1.ijm`**.  
+1. Launch FIJI and open **`AOC-Mito_Mfb1_distribution.ijm`**.  
 2. When prompted, specify:
    - **Input folder:** containing raw images and the `x-Mask` folder.  
    - **Output folder:** where results will be saved.  
