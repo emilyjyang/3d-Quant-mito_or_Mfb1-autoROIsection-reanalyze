@@ -737,8 +737,8 @@ for (i=0; i<list.length; i++) {
 					Ext.Manager3D_Quantif();
 					// loop to sum up InD
 					sumInDMito = 0;
-					for(i=0;i<nb_obj;i++) {
-						Ext.Manager3D_Quantif3D(i,"IntDen",InD);
+					for(a=0;a<nb_obj;a++) {
+						Ext.Manager3D_Quantif3D(a,"IntDen",InD);
 						sumInDMito += InD;
 						}
 					print("Sum IntDen in Cell"+pad_nCell +Region_name+ sumInDMito);
