@@ -2,7 +2,7 @@
 ## Overview
 This FIJI macro quantifies the **subcellular distribution of mitochondria or Mfb1** (a mitochondrial-associated protein asymmetrically localized to the mother distal tip in *Saccharomyces cerevisiae*).  
 
-Using **Cellpose-generated cell masks** and **MIP images**, this macro measures the fluorescence intensity distribution across eight defined regions of the mother–bud pair, as well as the bud/mother intensity ratio. It also supports measuring bud-to-mother size ratio to separate different cell cycle stages. It supports both **mitochondrial** and **Mfb1** signal quantification.
+Using **Cellpose-generated cell masks** and **MIP images**, this macro measures the fluorescence intensity distribution across eight defined regions of the mother–bud pair, as well as the bud/mother intensity ratio. It also supports measuring **bud-to-mother size ratio** to separate different cell cycle stages. It supports both **mitochondrial** and **Mfb1** signal quantification.
 
 ---
 
